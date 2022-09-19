@@ -1,0 +1,54 @@
+.buttonStyle {
+  padding: 0.5rem 3rem;
+  border: 0.2rem solid black;
+  border-radius: 50rem;
+  font-size: 2rem;
+  color: #000000;
+  cursor: pointer;
+  text-transform: capitalize;
+  background-color: transparent;
+  -webkit-transition: all 0.4s linear;
+  transition: all 0.4s linear;
+}
+
+.buttonStyle:hover {
+  color: #ffffff;
+  background-color: black;
+}
+
+.sectionHeading {
+  font-size: 4rem;
+  padding: 2rem;
+  font-weight: 700;
+  text-align: center;
+  text-transform: capitalize;
+  color: #000000;
+}
+
+.sectionHeading span {
+  padding: 0 1rem;
+  color: black;
+}
+
+.footerTitle {
+  font-size: 2.4rem;
+  color: #ffffff;
+  font-weight: 500;
+  text-align: left;
+  text-transform: capitalize;
+  padding: 1rem;
+}
+
+.footerLink {
+  font-size: 1.4rem;
+  color: #ffffff;
+  text-transform: capitalize;
+  -webkit-transition: all 0.4s linear;
+  transition: all 0.4s linear;
+}
+
+.footerLink:hover {
+  color: black;
+}
+
+  
